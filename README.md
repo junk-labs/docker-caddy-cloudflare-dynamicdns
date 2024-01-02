@@ -1,6 +1,6 @@
 # caddy-cloudflare-dynamicdns
 
-[![](https://img.shields.io/docker/cloud/build/junklabs/caddy-cloudflare-dynamicdns)](https://hub.docker.com/r/junklabs/caddy-cloudflare-dynamicdns)
+[![](https://img.shields.io/github/actions/workflow/status/junk-labs/docker-caddy-cloudflare-dynamicdns/auto-build-on-base-image-change.yml)](https://hub.docker.com/r/junklabs/caddy-cloudflare-dynamicdns)
 [![](https://img.shields.io/docker/pulls/junklabs/caddy-cloudflare-dynamicdns)](https://hub.docker.com/r/junklabs/caddy-cloudflare-dynamicdns)
 
 Caddy with integrated support for Cloudflare DNS-01 ACME verification challenges and Dynamic DNS.
